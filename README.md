@@ -6,4 +6,4 @@
 - `npm install -g electron-prebuilt`
 - `electron . `
 
-Electron allows p5.js artists to display their sketch results graphically without a Web browser.
+Electron allows p5.js artists to display their sketches graphically without a Web browser.
