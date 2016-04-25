@@ -1,5 +1,6 @@
 ## electron-p5-display
 # Using Electron(formerly Atom Shell) to Display P5 Sketch
+- copy p5.js library into `libraries` subdirectory
 - node.js must already be installed
 - Using terminal, navigate to working directory.
 - `npm install -g electron-prebuilt`
