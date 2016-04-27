@@ -7,5 +7,5 @@ app.on('ready', function() {
     width: 1300,
     height: 800
   });
-  win.loadUrl('file://' + __dirname + '/blue-disk-array.html')
+  win.loadUrl('file://' + __dirname + '/index.html')
 });
