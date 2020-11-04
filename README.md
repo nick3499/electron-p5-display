@@ -5,3 +5,5 @@
 - Using terminal, navigate to working directory.
 - `npm install -g electron-prebuilt`
 - `electron . `
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
